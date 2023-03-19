@@ -16,7 +16,7 @@ html{
 .main-container{
     width: 100vw;
     min-height: 100vh;
-    background-color: rgb(167, 123, 218);
+    background-color: #000000;
 }
 
 .titulo{
@@ -29,18 +29,19 @@ html{
     width: 54rem;
     height:75rem ;
     margin: 2rem auto auto;
-    background-color: aqua;
-    border: 2px rgb(250, 227, 19) solid;
-    background-color: black;
+    background-image: url(/Imagenes/CR7-1.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 2px #D4AF37 solid;
 }
- 
+
 .card-logo, .card-name{
     display: inline-flex;
     position: relative;
     bottom: 1rem;
     right: 5rem;
-    background-image: linear-gradient(120deg, #a559d1, #8c2aaa, #000000);
-    border: 2px white solid;
+    background-image: linear-gradient(120deg, #3B889A, #325e68, #000000);
+    border: 2px #D4AF37 solid;
     border-radius: 10px;
 }
 
