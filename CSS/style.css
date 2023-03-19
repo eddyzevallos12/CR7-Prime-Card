@@ -69,3 +69,20 @@ html{
     writing-mode: vertical-rl;
 }
 
+.card-logo{
+    width: 30rem;
+    height: 4rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    height: 110%;
+    width: auto;
+    object-fit: contain;
+    position: absolute;
+    bottom: 0.001rem;
+    left: 0.01rem;
+}
