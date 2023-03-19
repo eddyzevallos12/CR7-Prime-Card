@@ -86,3 +86,21 @@ html{
     bottom: 0.001rem;
     left: 0.01rem;
 }
+
+.descriptive-text{
+    width: 86%;
+    height: 8rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    background-image: linear-gradient(90deg, #a559d1, #8c2aaa, #000000);
+}
+
+.descriptive-text p{
+    color: #fff;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    text-align: center;
+}
