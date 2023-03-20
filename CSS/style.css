@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: "Rubik Dirt";
-    src: url(/Fonts/RubikDirt-Regular.ttf);
+    src: url(Fonts/RubikDirt-Regular.ttf);
 }
 
 html{
@@ -30,7 +30,7 @@ html{
     width: 54rem;
     height:75rem ;
     margin: 2rem auto auto;
-    background-image: url(/Imagenes/CR7-1.jpg);
+    background-image: url(Imagenes/CR7-1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px #D4AF37 solid;
@@ -103,7 +103,7 @@ html{
     align-items: center;
     position: absolute;
     bottom: 0;
-    background-image: url(/Imagenes/CR7-1.jpg);
+    background-image: url(Imagenes/CR7-1.jpg);
     background-size: cover;
     background-position:top;
     background-position-y: 75rem;
